@@ -1,0 +1,1 @@
+/Users/evoituriez/Sites/magento/vendor/magento/module-search/view/frontend/web/form-mini.js
